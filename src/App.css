@@ -1,0 +1,204 @@
+/* 1chi vazifa */
+
+/* .create-account-form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .create-account-form h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .create-account-form p {
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .create-account-form input,
+  .create-account-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .create-account-form textarea {
+    height: 100px;
+    resize: none;
+  }
+  
+  .create-account-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .create-account-form button:hover {
+    background-color: #0056b3;
+  }
+   */
+
+
+
+
+
+
+/* 2chi vazifa */
+
+
+
+
+/* .online-registration-form {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .online-registration-form .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .online-registration-form h1 {
+    color: #28a745;
+    margin: 0;
+  }
+  
+  .online-registration-form h2 {
+    color: #666;
+    margin: 0;
+  }
+  
+  .online-registration-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .online-registration-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .online-registration-form input,
+  .online-registration-form select {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .online-registration-form .date-of-birth {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .online-registration-form .date-of-birth select {
+    width: 30%;
+  }
+  
+  .online-registration-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .online-registration-form button:hover {
+    background-color: #0056b3;
+  }
+   */
+
+
+
+/* 3chi vazifa */
+.App {
+    font-family:  sans-serif;
+    padding: 20px;
+  }
+  
+  .filter-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container input {
+    width: 150px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .filter-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .filter-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 10px;
+  }
+  
+  .card-content h3 {
+    font-size: 16px;
+    margin: 0 0 10px;
+  }
+  
+  .card-content p {
+    font-size: 14px;
+    color: #666;
+  }
+  
